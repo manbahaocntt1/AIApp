@@ -1,0 +1,10 @@
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\bin\Debug\AIAppForm.exe.config
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\bin\Debug\AIAppForm.exe
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\bin\Debug\AIAppForm.pdb
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.csproj.AssemblyReference.cache
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.Form1.resources
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.Properties.Resources.resources
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.csproj.GenerateResource.cache
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.csproj.CoreCompileInputs.cache
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.exe
+C:\Users\PC~\source\repos\AIAppForm\AIAppForm\obj\Debug\AIAppForm.pdb
